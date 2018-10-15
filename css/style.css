@@ -127,7 +127,7 @@ img {
 footer {
   margin-top: 2rem;
   background: var(--dark);
-  color: var(--light);
+  color: var(--primary);
   text-align: center;
   padding: 1rem;
 }
